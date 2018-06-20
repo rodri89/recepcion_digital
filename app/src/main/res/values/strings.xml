@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Recepcion - MERBANGroup</string>
+    <string name="main_entrar">Login</string>
+    <string name="ver_invitados_volver">Volver</string>
+    <string name="ver_invitados_buscar" />
+    <string name="main_usuario" />
+    <string name="main_contrasenia" />
+    <string name="elegir_evento_numero" />
+    <string name="elegir_evento_cargar">Cargar</string>
+    <string name="main_log">Login</string>
+    <string name="elegir_evento_entrar">Volver</string>
+    <string name="admin_crear_usr">Nuevo</string>
+    <string name="admin_email" />
+    <string name="admin_contrasenia" />
+    <string name="admin_clienteid" />
+    <string name="admin_usuariodi" />
+    <string name="usr_log_eventos">Mis Eventos</string>
+    <string name="usr_log_sync_eventos">Sincronizar Eventos</string>
+    <string name="usr_log_salir">Salir</string>
+</resources>
